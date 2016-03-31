@@ -1,9 +1,6 @@
-//SE CREAN LAS PRIMERAS LINEAS PARA PODER IMPRIMIR 10 NUMEROS.
+Informacion del repositorio:
 
-function imprime(){
+Este repositorio se creó para realizar pruebas de comunicación entre la pc de escritorio y git así como un listado de comandos.
 
-for(var i = 0 ; i<10;i++){
-alert("número "+i);
-}
-}
+git init    /se utiliza para iniciar el repositorio.
 
